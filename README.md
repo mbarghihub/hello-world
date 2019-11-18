@@ -1,2 +1,2 @@
 # hello-world
-Imade this repository for initial work
+I made this repository for initial work
