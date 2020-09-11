@@ -9,4 +9,3 @@ this is new commit for read-new branch
 this is the next commit for read-change branch.
 I made branch-clone to train with clone
 I'mwriting in a branch from commit.
-this is new edit to readme-edit
