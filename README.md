@@ -8,4 +8,4 @@ this is for restart the practise
 this is new commit for read-new branch
 this is the next commit for read-change branch.
 I made branch-clone to train with clone
-
+restart my training
